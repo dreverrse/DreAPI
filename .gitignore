@@ -1,5 +1,6 @@
 venv/
 .env
+memory.json
 __pycache__/
-music/
 *.pyc
+music/
